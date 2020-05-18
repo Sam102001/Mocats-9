@@ -1,0 +1,295 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*BARRA DE NAVEGACIÓN*/
+
+.flow{
+   padding: 20px;
+   background-color: aquamarine;
+   text-align: right;
+
+}
+
+
+
+.boton{
+    color:#000000;
+    background-color: aquamarine;
+    text-decoration: none;
+    border: none;
+    padding: 5px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+.imagen{
+   display: block;
+   min-width: 150px;
+   max-width: 180px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+}
+
+.im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+}
+
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    height: auto;
+}
+
+.mini{
+    display: block;
+    margin-right: auto;
+    width: 20%;
+    height: auto;
+    float: left;
+    padding: 0 10px 0 10px;
+
+}
+
+.mini1{
+    display: block;
+    margin-left: auto;
+    width: 20%;
+    height: auto;
+    float: left;
+    padding: 0 10px 0 10px;
+
+}
+
+.mini2{
+    display: block;
+    margin-left: auto;
+    width: 28%;
+    height: auto;
+    float: left;
+    padding: 0 10px 0 10px; 
+}
+
+.mini3{
+    display: block;
+    margin-left: auto;
+    width: 28%;
+    height: auto;
+    float: left;
+    padding: 0 10px 0 10px; 
+}
+
+.mini4{
+    width: 35%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+.mini5{
+    width: 30%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+.mini6{
+    width: 26%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+.mini7{
+    width: 24%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+.mini8{
+    width: 32%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+.mini9{
+    width: 33%;
+    height: auto;
+    padding: 0 10px 0 10px; 
+    float: left;
+}
+
+
+.short{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+  
+}
+
+.medium{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: auto;
+    padding: 15px 0 15px 0;
+  
+}
+
+
+.largo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+.largos{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    padding: 0px 0 55px 0;
+}
+
+.magen1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: auto;
+    
+}
+
+.video{
+    width: 100%;
+    height: auto;
+    padding: 35px 0 35px 0;
+}
+
+.video2{
+    width: 100%;
+    height: auto;
+}
+
+.abajo{
+   width: 140px;
+}
+
+.hola{
+   padding: 30px 85px 30px 85px;
+   font-size: 14px;
+   color: dimgray;
+}
+
+.feliz{
+    padding: 85px;
+    font-size: 14px;
+    color: dimgray;
+    text-align: right;
+}
+
+
+.p {
+   text-align: justify;
+   padding: 25px 0 25px 0;
+}
+
+.p1 {
+    text-align: justify;
+    padding: 25px 0 25px 0;
+ }
+
+ .p2{
+     text-align: center;
+     padding: 10px 0 10px 0;
+ }
+
+ .p3{
+     text-align: justify;
+     padding: 25px 0 25px 0;
+ }
+
+ .p4{
+    text-align: left;
+    padding: 10px 0 10px 0;
+}
+
+.p5{
+    text-align: justify;
+    padding: 10px 0 10px 0;
+}
+
+.p6{
+    text-align:right;
+    padding: 120px 0 8px 0;
+}
+
+ .color{
+     background-color: #C2FEE7;
+ }
+
+
+.h1{ font-size: 35px; color:#000000;text-align: justify;}
+.h2{ font-size: 30px; color: rgb(20, 250, 231); text-align: center;}
+.h4{ font-size: 40px; color:#000000; text-align: justify; }
+.h5{ font-size: 25px; color: coral; text-align: justify;}
+.h6{ font-size: 28px; color: cornflowerblue; text-align: center;}
+
+
+
+#footer{
+    padding: 80px 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+#footer a:hover{
+    color: #ffffff;
+}
+
+.bg{
+    background-color: rgb(6, 126, 86);
+}
+
+.a{
+    color: #ffffff;
+}
+
+#footer .list-inline{
+    padding: 100px 20px;
+    text-align: center;
+    display: inline;
+}
+
+
